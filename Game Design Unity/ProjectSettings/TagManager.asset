@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Meleeattack
+  - TilemapFloor
+  - Revive
+  - Item
+  - HealthPotion
+  - PickupArrow
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - Go through Enemies
+  - MeleeAttack
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 2335650531
+    locked: 0
+  - name: Tilemap
+    uniqueID: 708008555
+    locked: 0
+  - name: Proyectiles
+    uniqueID: 778825365
+    locked: 0
+  - name: Characters
+    uniqueID: 935750541
+    locked: 0
+  - name: Visual Effects
+    uniqueID: 3883421411
+    locked: 0
+  - name: Objects
+    uniqueID: 3666264257
+    locked: 0

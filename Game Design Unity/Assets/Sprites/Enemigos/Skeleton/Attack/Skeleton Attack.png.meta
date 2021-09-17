@@ -1,0 +1,1115 @@
+fileFormatVersion: 2
+guid: c5369a54a767cac45922e5dfa135a317
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3847943250117979209
+    second: Skeleton Attack_0
+  - first:
+      213: -529646562509220946
+    second: Skeleton Attack_1
+  - first:
+      213: -7138319701972840668
+    second: Skeleton Attack_2
+  - first:
+      213: 3291756735606063980
+    second: Skeleton Attack_3
+  - first:
+      213: -8264367007930756521
+    second: Skeleton Attack_4
+  - first:
+      213: 6926094506201588144
+    second: Skeleton Attack_5
+  - first:
+      213: 3844375112415055413
+    second: Skeleton Attack_6
+  - first:
+      213: -6815739294338704575
+    second: Skeleton Attack_7
+  - first:
+      213: 7627512933118868929
+    second: Skeleton Attack_8
+  - first:
+      213: -7601260514028395475
+    second: Skeleton Attack_9
+  - first:
+      213: -823298783069048056
+    second: Skeleton Attack_10
+  - first:
+      213: 368417881747873077
+    second: Skeleton Attack_11
+  - first:
+      213: 1424786261180037135
+    second: Skeleton Attack_12
+  - first:
+      213: 7777100389646448644
+    second: Skeleton Attack_13
+  - first:
+      213: 951018012323566522
+    second: Skeleton Attack_14
+  - first:
+      213: 2023176062729479260
+    second: Skeleton Attack_15
+  - first:
+      213: -134369724413475220
+    second: Skeleton Attack_16
+  - first:
+      213: -4541977737240093436
+    second: Skeleton Attack_17
+  - first:
+      213: -6244284412213251510
+    second: Skeleton Attack_18
+  - first:
+      213: -1941585479680965096
+    second: Skeleton Attack_0
+  - first:
+      213: -2702592144947403283
+    second: Skeleton Attack_1
+  - first:
+      213: 1875948936897574195
+    second: Skeleton Attack_2
+  - first:
+      213: 7872477759496603487
+    second: Skeleton Attack_3
+  - first:
+      213: 720704706845230417
+    second: Skeleton Attack_4
+  - first:
+      213: -7235091045658607217
+    second: Skeleton Attack_5
+  - first:
+      213: -8368446288984385807
+    second: Skeleton Attack_6
+  - first:
+      213: 7350990367134868606
+    second: Skeleton Attack_7
+  - first:
+      213: -4004736829106353482
+    second: Skeleton Attack_8
+  - first:
+      213: -4765745171068532909
+    second: Skeleton Attack_9
+  - first:
+      213: -7106035225911625104
+    second: Skeleton Attack_10
+  - first:
+      213: -5543540226517802893
+    second: Skeleton Attack_11
+  - first:
+      213: -8947441366816903648
+    second: Skeleton Attack_12
+  - first:
+      213: 2420010892012792558
+    second: Skeleton Attack_13
+  - first:
+      213: -8176936492232423616
+    second: Skeleton Attack_14
+  - first:
+      213: -4569194773332834031
+    second: Skeleton Attack_15
+  - first:
+      213: -5222432049248955534
+    second: Skeleton Attack_16
+  - first:
+      213: 7785343291969767609
+    second: Skeleton Attack_17
+  - first:
+      213: 6978996606712860755
+    second: Skeleton Attack_19
+  - first:
+      213: 3008964270953196486
+    second: Skeleton Attack_20
+  - first:
+      213: -5385811977247641624
+    second: Skeleton Attack_21
+  - first:
+      213: 1820079202474380281
+    second: Skeleton Attack_22
+  - first:
+      213: 834374799674731707
+    second: Skeleton Attack_23
+  - first:
+      213: -3404122265967070540
+    second: Skeleton Attack_24
+  - first:
+      213: 7952820107865262526
+    second: Skeleton Attack_25
+  - first:
+      213: -6546767552723300042
+    second: Skeleton Attack_26
+  - first:
+      213: 2293400817835622309
+    second: Skeleton Attack_27
+  - first:
+      213: -4958604895029561277
+    second: Skeleton Attack_28
+  - first:
+      213: -4080951077498473148
+    second: Skeleton Attack_29
+  - first:
+      213: 6770636070485142917
+    second: Skeleton Attack_30
+  - first:
+      213: 5186065039056153598
+    second: Skeleton Attack_31
+  - first:
+      213: -3795251993776732835
+    second: Skeleton Attack_32
+  - first:
+      213: -3070274466495672618
+    second: Skeleton Attack_33
+  - first:
+      213: 2661703335823924769
+    second: Skeleton Attack_34
+  - first:
+      213: 7885265440688933174
+    second: Skeleton Attack_35
+  - first:
+      213: -8448231208357179382
+    second: Skeleton Attack_36
+  - first:
+      213: 1307321827166943975
+    second: Skeleton Attack_37
+  - first:
+      213: -529250437850313130
+    second: Skeleton Attack_38
+  - first:
+      213: 5614117514993653802
+    second: Skeleton Attack_39
+  - first:
+      213: -3602409579256144754
+    second: Skeleton Attack_40
+  - first:
+      213: -5213732978924978585
+    second: Skeleton Attack_41
+  - first:
+      213: -2875547399896783264
+    second: Skeleton Attack_42
+  - first:
+      213: -4702434809073939630
+    second: Skeleton Attack_43
+  - first:
+      213: -1037105282979953994
+    second: Skeleton Attack_44
+  - first:
+      213: -6153448789304644846
+    second: Skeleton Attack_45
+  - first:
+      213: -2227239196122366971
+    second: Skeleton Attack_46
+  - first:
+      213: 359793468486901428
+    second: Skeleton Attack_47
+  - first:
+      213: 8650649756223558735
+    second: Skeleton Attack_48
+  - first:
+      213: 831223622572679703
+    second: Skeleton Attack_49
+  - first:
+      213: 8275011083165947767
+    second: Skeleton Attack_50
+  - first:
+      213: 5742485213158964796
+    second: Skeleton Attack_51
+  - first:
+      213: 6900214209460500632
+    second: Skeleton Attack_52
+  - first:
+      213: -2292913237270765617
+    second: Skeleton Attack_53
+  - first:
+      213: 4489972432816918009
+    second: Skeleton Attack_54
+  - first:
+      213: 6799931182045576767
+    second: Skeleton Attack_55
+  - first:
+      213: 405522640514022202
+    second: Skeleton Attack_56
+  - first:
+      213: -2050271341933107121
+    second: Skeleton Attack_57
+  - first:
+      213: -8010645153933491732
+    second: Skeleton Attack_58
+  - first:
+      213: 2381919907575471154
+    second: Skeleton Attack_59
+  - first:
+      213: 6700912569489498477
+    second: Skeleton Attack_60
+  - first:
+      213: -6615370771847720252
+    second: Skeleton Attack_61
+  - first:
+      213: 838983612538158549
+    second: Skeleton Attack_62
+  - first:
+      213: 5920652105891681783
+    second: Skeleton Attack_63
+  - first:
+      213: 2324360077503278637
+    second: Skeleton Attack_64
+  - first:
+      213: 8272751633153541252
+    second: Skeleton Attack_65
+  - first:
+      213: 917203201942415371
+    second: Skeleton Attack_66
+  - first:
+      213: 3066950875205344109
+    second: Skeleton Attack_67
+  - first:
+      213: -3571333940925378912
+    second: Skeleton Attack_68
+  - first:
+      213: -6270569061866271724
+    second: Skeleton Attack_69
+  - first:
+      213: 8206532717047270449
+    second: Skeleton Attack_70
+  - first:
+      213: -2899894013611104200
+    second: Skeleton Attack_71
+  - first:
+      213: -3817809290510779349
+    second: Skeleton Attack_72
+  - first:
+      213: -1675179339771434497
+    second: Skeleton Attack_73
+  - first:
+      213: -4159033340182273477
+    second: Skeleton Attack_74
+  - first:
+      213: 6482009879625718044
+    second: Skeleton Attack_75
+  - first:
+      213: -5818621455994285806
+    second: Skeleton Attack_76
+  - first:
+      213: -2333416713276204581
+    second: Skeleton Attack_77
+  - first:
+      213: -4220447307303456469
+    second: Skeleton Attack_78
+  - first:
+      213: -3722903223364173857
+    second: Skeleton Attack_79
+  - first:
+      213: -7973883966515378194
+    second: Skeleton Attack_80
+  - first:
+      213: -5283217140495794387
+    second: Skeleton Attack_81
+  - first:
+      213: 6852399069209689804
+    second: Skeleton Attack_82
+  - first:
+      213: 5200158817836000385
+    second: Skeleton Attack_83
+  - first:
+      213: 8056547205399090075
+    second: Skeleton Attack_84
+  - first:
+      213: -8965825223454021011
+    second: Skeleton Attack_85
+  - first:
+      213: 754165552536189422
+    second: Skeleton Attack_86
+  - first:
+      213: 1597902237693782925
+    second: Skeleton Attack_87
+  - first:
+      213: 9081651843888254993
+    second: Skeleton Attack_88
+  - first:
+      213: 7167101782560405843
+    second: Skeleton Attack_89
+  - first:
+      213: 254081439254228796
+    second: Skeleton Attack_90
+  - first:
+      213: 3836124592024168022
+    second: Skeleton Attack_91
+  - first:
+      213: -5093748447494842351
+    second: Skeleton Attack_92
+  - first:
+      213: 6423526234278975881
+    second: Skeleton Attack_93
+  - first:
+      213: 1272935771677180588
+    second: Skeleton Attack_94
+  - first:
+      213: 8392148146265427883
+    second: Skeleton Attack_95
+  - first:
+      213: 2561450884113776604
+    second: Skeleton Attack_96
+  - first:
+      213: 6874068460279295027
+    second: Skeleton Attack_97
+  - first:
+      213: 7616346166621190226
+    second: Skeleton Attack_98
+  - first:
+      213: -2994390266339841382
+    second: Skeleton Attack_99
+  - first:
+      213: 3931818343004988375
+    second: Skeleton Attack_100
+  - first:
+      213: -4931585641047732398
+    second: Skeleton Attack_101
+  - first:
+      213: 1468361388626743328
+    second: Skeleton Attack_102
+  - first:
+      213: 5819103003162134278
+    second: Skeleton Attack_103
+  - first:
+      213: -6281273251816830681
+    second: Skeleton Attack_104
+  - first:
+      213: 9198576072936466254
+    second: Skeleton Attack_105
+  - first:
+      213: -3092645207407832264
+    second: Skeleton Attack_106
+  - first:
+      213: -2192020100969359701
+    second: Skeleton Attack_107
+  - first:
+      213: -7680887999878160465
+    second: Skeleton Attack_108
+  - first:
+      213: 8245362115251626490
+    second: Skeleton Attack_109
+  - first:
+      213: 6110136927487353717
+    second: Skeleton Attack_110
+  - first:
+      213: 4547982891384452000
+    second: Skeleton Attack_111
+  - first:
+      213: 5629007261337770131
+    second: Skeleton Attack_112
+  - first:
+      213: -7371850902580577233
+    second: Skeleton Attack_113
+  - first:
+      213: -3980005109043830604
+    second: Skeleton Attack_114
+  - first:
+      213: 4762166784834452869
+    second: Skeleton Attack_115
+  - first:
+      213: 2753802457621809673
+    second: Skeleton Attack_116
+  - first:
+      213: -4846835797234079914
+    second: Skeleton Attack_117
+  - first:
+      213: -8619017900829804614
+    second: Skeleton Attack_118
+  - first:
+      213: -4601738933208656671
+    second: Skeleton Attack_119
+  - first:
+      213: 6026015655117718417
+    second: Skeleton Attack_120
+  - first:
+      213: 6783179989289903945
+    second: Skeleton Attack_121
+  - first:
+      213: -1363671669277301733
+    second: Skeleton Attack_122
+  - first:
+      213: -709617422779665487
+    second: Skeleton Attack_123
+  - first:
+      213: -292082636905675476
+    second: Skeleton Attack_124
+  - first:
+      213: -4924118304458906311
+    second: Skeleton Attack_125
+  - first:
+      213: 7600480306750920816
+    second: Skeleton Attack_126
+  - first:
+      213: -3865476486161238694
+    second: Skeleton Attack_127
+  - first:
+      213: 7790597243800187313
+    second: Skeleton Attack_128
+  - first:
+      213: 5707012492227451610
+    second: Skeleton Attack_129
+  - first:
+      213: 3955779853153514723
+    second: Skeleton Attack_130
+  - first:
+      213: -8598452837507320406
+    second: Skeleton Attack_131
+  - first:
+      213: -3309991839795001203
+    second: Skeleton Attack_132
+  - first:
+      213: 7132506689284950263
+    second: Skeleton Attack_133
+  - first:
+      213: 4231733148576314401
+    second: Skeleton Attack_134
+  - first:
+      213: 8652183711411453943
+    second: Skeleton Attack_135
+  - first:
+      213: -2041248069813590443
+    second: Skeleton Attack_136
+  - first:
+      213: 5202475638529962676
+    second: Skeleton Attack_137
+  - first:
+      213: 4005489270393275097
+    second: Skeleton Attack_138
+  - first:
+      213: 8418012929553634906
+    second: Skeleton Attack_139
+  - first:
+      213: -9196048079501848193
+    second: Skeleton Attack_140
+  - first:
+      213: 1298522914438598368
+    second: Skeleton Attack_141
+  - first:
+      213: 6213732072748582298
+    second: Skeleton Attack_142
+  - first:
+      213: 6666775529201090339
+    second: Skeleton Attack_143
+  - first:
+      213: 7018543020814251906
+    second: Skeleton Attack_144
+  - first:
+      213: 1263483042988844600
+    second: Skeleton Attack_145
+  - first:
+      213: 6856924763103499180
+    second: Skeleton Attack_146
+  - first:
+      213: 4537111133190985995
+    second: Skeleton Attack_147
+  - first:
+      213: 638508683583562604
+    second: Skeleton Attack_148
+  - first:
+      213: 3869344690473324335
+    second: Skeleton Attack_149
+  - first:
+      213: 4265554223033390786
+    second: Skeleton Attack_150
+  - first:
+      213: -2733056135176638859
+    second: Skeleton Attack_151
+  - first:
+      213: 6272434155091591080
+    second: Skeleton Attack_152
+  - first:
+      213: -5937845536697353897
+    second: Skeleton Attack_153
+  - first:
+      213: 3291786492681420107
+    second: Skeleton Attack_154
+  - first:
+      213: 5288970128738110887
+    second: Skeleton Attack_155
+  - first:
+      213: 8213678646212452704
+    second: Skeleton Attack_156
+  - first:
+      213: -6355424452066020646
+    second: Skeleton Attack_157
+  - first:
+      213: -3698074965417787525
+    second: Skeleton Attack_158
+  - first:
+      213: 3911987381560430126
+    second: Skeleton Attack_159
+  - first:
+      213: 1509867948183240271
+    second: Skeleton Attack_160
+  - first:
+      213: 1576954872750417437
+    second: Skeleton Attack_161
+  - first:
+      213: -4465103540920060409
+    second: Skeleton Attack_162
+  - first:
+      213: -3979445899271610873
+    second: Skeleton Attack_163
+  - first:
+      213: -1719581658217046045
+    second: Skeleton Attack_164
+  - first:
+      213: 2029577303614983043
+    second: Skeleton Attack_165
+  - first:
+      213: 4569076106402957193
+    second: Skeleton Attack_166
+  - first:
+      213: -5885110329833775288
+    second: Skeleton Attack_167
+  - first:
+      213: -1916481668992508127
+    second: Skeleton Attack_168
+  - first:
+      213: 6593155311131882779
+    second: Skeleton Attack_169
+  - first:
+      213: -7951753581900853355
+    second: Skeleton Attack_170
+  - first:
+      213: 3694835942702709268
+    second: Skeleton Attack_171
+  - first:
+      213: -3449190399099135788
+    second: Skeleton Attack_172
+  - first:
+      213: -3302950838620348674
+    second: Skeleton Attack_173
+  - first:
+      213: 4617815381941573295
+    second: Skeleton Attack_174
+  - first:
+      213: -5923995697151097635
+    second: Skeleton Attack_175
+  - first:
+      213: -4073751757428159376
+    second: Skeleton Attack_176
+  - first:
+      213: 5790324907201398259
+    second: Skeleton Attack_177
+  - first:
+      213: -1224999781803327533
+    second: Skeleton Attack_178
+  - first:
+      213: -6284560347778676753
+    second: Skeleton Attack_179
+  - first:
+      213: 2584017443622965117
+    second: Skeleton Attack_180
+  - first:
+      213: -4018383653764925013
+    second: Skeleton Attack_181
+  - first:
+      213: 5180223042597917843
+    second: Skeleton Attack_182
+  - first:
+      213: 63745833323042139
+    second: Skeleton Attack_183
+  - first:
+      213: 6377958524533145943
+    second: Skeleton Attack_184
+  - first:
+      213: 3534981496997522643
+    second: Skeleton Attack_185
+  - first:
+      213: 7698164969037410645
+    second: Skeleton Attack_186
+  - first:
+      213: -7245087493708432105
+    second: Skeleton Attack_187
+  - first:
+      213: 396442578648758087
+    second: Skeleton Attack_188
+  - first:
+      213: -7079401765368132891
+    second: Skeleton Attack_189
+  - first:
+      213: -2877774018386572463
+    second: Skeleton Attack_190
+  - first:
+      213: 3167250048355286977
+    second: Skeleton Attack_191
+  - first:
+      213: 5222763364686513990
+    second: Skeleton Attack_192
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8164f8e0b4a1e05e0800000000000000
+      internalID: -1941585479680965096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de526ab53c67e7ad0800000000000000
+      internalID: -2702592144947403283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353d807e95b80a10800000000000000
+      internalID: 1875948936897574195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5745f4efc8a04d60800000000000000
+      internalID: 7872477759496603487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1554677cc15700a00800000000000000
+      internalID: 720704706845230417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81c8e1f60bc79b90800000000000000
+      internalID: -7235091045658607217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f65627207e4ddb80800000000000000
+      internalID: -8368446288984385807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74646caac6f30660800000000000000
+      internalID: 7350990367134868606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba013a62115c68c0800000000000000
+      internalID: -4004736829106353482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3574d64540cacddb0800000000000000
+      internalID: -4765745171068532909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aff168c9a426d90800000000000000
+      internalID: -7106035225911625104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3706150f8836113b0800000000000000
+      internalID: -5543540226517802893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2e328b7d44d380800000000000000
+      internalID: -8947441366816903648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaaff2a51b959120800000000000000
+      internalID: 2420010892012792558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047ce85659fa58e80800000000000000
+      internalID: -8176936492232423616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119cce1ff85f690c0800000000000000
+      internalID: -4569194773332834031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_16
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27396e888b13687b0800000000000000
+      internalID: -5222432049248955534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Attack_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8045cb9781b0c60800000000000000
+      internalID: 7785343291969767609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

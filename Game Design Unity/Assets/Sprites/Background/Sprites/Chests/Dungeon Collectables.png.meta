@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 2e16448fd9dcfa94fb7cef681d01ad2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4981027512063062209
+    second: Dungeon Collectables_0
+  - first:
+      213: 8491543709793888540
+    second: Dungeon Collectables_1
+  - first:
+      213: -7926764574928860638
+    second: Dungeon Collectables_2
+  - first:
+      213: 8376373798699548044
+    second: Dungeon Collectables_3
+  - first:
+      213: -1993628870884830186
+    second: Dungeon Collectables_4
+  - first:
+      213: -5718687790894517427
+    second: Dungeon Collectables_5
+  - first:
+      213: -3715489973487708034
+    second: Dungeon Collectables_6
+  - first:
+      213: 3981406535509432002
+    second: Dungeon Collectables_7
+  - first:
+      213: -3796129081628504124
+    second: Dungeon Collectables_8
+  - first:
+      213: -7075445026061771052
+    second: Dungeon Collectables_9
+  - first:
+      213: 4604653957286751398
+    second: Dungeon Collectables_10
+  - first:
+      213: -9039626606516614119
+    second: Dungeon Collectables_11
+  - first:
+      213: 6682896973852923195
+    second: Dungeon Collectables_12
+  - first:
+      213: -7094880711516134970
+    second: Dungeon Collectables_13
+  - first:
+      213: 3731069644163115339
+    second: Dungeon Collectables_14
+  - first:
+      213: -2899221626762912873
+    second: Dungeon Collectables_15
+  - first:
+      213: 5276200900968943004
+    second: Dungeon Collectables_16
+  - first:
+      213: -6681965107842798902
+    second: Dungeon Collectables_17
+  - first:
+      213: 6506629424491578777
+    second: Dungeon Collectables_18
+  - first:
+      213: 6829010362773081039
+    second: Dungeon Collectables_19
+  - first:
+      213: 8585337745559550001
+    second: Dungeon Collectables_20
+  - first:
+      213: 3045172811279320518
+    second: Dungeon Collectables_21
+  - first:
+      213: 2698192754117038406
+    second: Dungeon Collectables_22
+  - first:
+      213: 510378136601011835
+    second: Dungeon Collectables_23
+  - first:
+      213: 5130627243197491662
+    second: Dungeon Collectables_24
+  - first:
+      213: 7139187838515069791
+    second: Dungeon Collectables_25
+  - first:
+      213: -4095409828478574506
+    second: Dungeon Collectables_26
+  - first:
+      213: 5432353997622487570
+    second: Dungeon Collectables_27
+  - first:
+      213: -1562064083800305476
+    second: Dungeon Collectables_28
+  - first:
+      213: -7044564965042940968
+    second: Dungeon Collectables_29
+  - first:
+      213: 4728079521747387509
+    second: Dungeon Collectables_30
+  - first:
+      213: 3415182904475538826
+    second: Dungeon Collectables_31
+  - first:
+      213: -6352183285247097963
+    second: Dungeon Collectables_32
+  - first:
+      213: 6732726125909585893
+    second: Dungeon Collectables_33
+  - first:
+      213: 6288459789718912356
+    second: Dungeon Collectables_34
+  - first:
+      213: -8897916520915732096
+    second: Dungeon Collectables_35
+  - first:
+      213: -1484005838747827312
+    second: Dungeon Collectables_36
+  - first:
+      213: 2119473919272843211
+    second: Dungeon Collectables_37
+  - first:
+      213: -739816467086169766
+    second: Dungeon Collectables_38
+  - first:
+      213: 3618095115115201316
+    second: Dungeon Collectables_39
+  - first:
+      213: 8859461837538376766
+    second: Dungeon Collectables_40
+  - first:
+      213: 5500159539016708025
+    second: Dungeon Collectables_41
+  - first:
+      213: -4443509392822675782
+    second: Dungeon Collectables_42
+  - first:
+      213: -1642212851157522695
+    second: Dungeon Collectables_43
+  - first:
+      213: 7966821305654872209
+    second: Dungeon Collectables_44
+  - first:
+      213: -8058128219490997177
+    second: Dungeon Collectables_45
+  - first:
+      213: 4232332110829087699
+    second: Dungeon Collectables_46
+  - first:
+      213: -5060553453526144757
+    second: Dungeon Collectables_47
+  - first:
+      213: -8234185889769579856
+    second: Dungeon Collectables_48
+  - first:
+      213: 1588848132050266980
+    second: Dungeon Collectables_49
+  - first:
+      213: 17682809781171341
+    second: Dungeon Collectables_50
+  - first:
+      213: -1035559217244117572
+    second: Dungeon Collectables_51
+  - first:
+      213: 1032874224828317971
+    second: Dungeon Collectables_52
+  - first:
+      213: 8613126039453912486
+    second: Dungeon Collectables_53
+  - first:
+      213: 4075156790377629036
+    second: Dungeon Collectables_54
+  - first:
+      213: -4437859670124924521
+    second: Dungeon Collectables_55
+  - first:
+      213: 2708593062330259706
+    second: Dungeon Collectables_56
+  - first:
+      213: 3995863874401759228
+    second: Dungeon Collectables_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon Collectables_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f880f4ed5dfdab0800000000000000
+      internalID: -4981027512063062209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a7f0930608d570800000000000000
+      internalID: 8491543709793888540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a073ded997ef190800000000000000
+      internalID: -7926764574928860638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3069079bde3470800000000000000
+      internalID: 8376373798699548044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61452f8ca153554e0800000000000000
+      internalID: -1993628870884830186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d437e5ac0c323a0b0800000000000000
+      internalID: -5718687790894517427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e785dbbfd8def6cc0800000000000000
+      internalID: -3715489973487708034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6557f462cc04730800000000000000
+      internalID: 3981406535509432002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfc00886b0715bc0800000000000000
+      internalID: -3796129081628504124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de98c17c38fecd90800000000000000
+      internalID: -7075445026061771052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac6cada06407ef30800000000000000
+      internalID: 4604653957286751398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Collectables_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 69
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4860de7bcc8280800000000000000
+      internalID: -9039626606516614119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
