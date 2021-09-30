@@ -8298,6 +8298,24 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 635266451}
   m_PrefabAsset: {fileID: 0}
+--- !u!224 &646566830 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 794467859456510109, guid: 7339a16d85b194445ad0da20807f7e75,
+    type: 3}
+  m_PrefabInstance: {fileID: 794467859875622293}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &646566831 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 794467859456510108, guid: 7339a16d85b194445ad0da20807f7e75,
+    type: 3}
+  m_PrefabInstance: {fileID: 794467859875622293}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &658614477 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4527894565191178149, guid: 9f1c5543a7f96ff469a0a67c22a9cc3f,
@@ -33715,7 +33733,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 2285b62fe0e90d045976e2f3248a5016, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.174
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -34615,6 +34633,74 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 741730100}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1748339301 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 794467860575560164, guid: 7339a16d85b194445ad0da20807f7e75,
+    type: 3}
+  m_PrefabInstance: {fileID: 794467859875622293}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1748339303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748339301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 0
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 0}
+  m_FillRect: {fileID: 646566830}
+  m_HandleRect: {fileID: 0}
+  m_Direction: 0
+  m_MinValue: 0
+  m_MaxValue: 1
+  m_WholeNumbers: 0
+  m_Value: 0
+  m_OnValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &1748339304 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 794467860575560166, guid: 7339a16d85b194445ad0da20807f7e75,
+    type: 3}
+  m_PrefabInstance: {fileID: 794467859875622293}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748339301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 733ee82ca4ca3cb40a664d840d546ced, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1748405463 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3346218858816984423, guid: ca8e30579991b8d478e99420f9539897,
@@ -36047,17 +36133,32 @@ PrefabInstance:
     - target: {fileID: 794467859296950238, guid: 7339a16d85b194445ad0da20807f7e75,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 16.144257
+      value: 16.144287
       objectReference: {fileID: 0}
     - target: {fileID: 794467859296950238, guid: 7339a16d85b194445ad0da20807f7e75,
         type: 3}
       propertyPath: m_SizeDelta.y
       value: -32.288513
       objectReference: {fileID: 0}
+    - target: {fileID: 794467859456510108, guid: 7339a16d85b194445ad0da20807f7e75,
+        type: 3}
+      propertyPath: m_FillAmount
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 794467859456510109, guid: 7339a16d85b194445ad0da20807f7e75,
         type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -0.97021484
+      objectReference: {fileID: 0}
+    - target: {fileID: 794467859456510109, guid: 7339a16d85b194445ad0da20807f7e75,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 794467859456510109, guid: 7339a16d85b194445ad0da20807f7e75,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 794467860077980210, guid: 7339a16d85b194445ad0da20807f7e75,
         type: 3}
@@ -36200,6 +36301,16 @@ PrefabInstance:
       propertyPath: playerController
       value: 
       objectReference: {fileID: 982391866}
+    - target: {fileID: 794467860575560166, guid: 7339a16d85b194445ad0da20807f7e75,
+        type: 3}
+      propertyPath: _fill
+      value: 
+      objectReference: {fileID: 646566831}
+    - target: {fileID: 794467860575560166, guid: 7339a16d85b194445ad0da20807f7e75,
+        type: 3}
+      propertyPath: _slider
+      value: 
+      objectReference: {fileID: 1748339303}
     - target: {fileID: 794467861048736159, guid: 7339a16d85b194445ad0da20807f7e75,
         type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -37032,6 +37143,14 @@ PrefabInstance:
       propertyPath: m_Volume
       value: 0.434
       objectReference: {fileID: 0}
+    - target: {fileID: 302954338, guid: 5b8406f3243dfae4d9327996c648d1c2, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1552764061, guid: 5b8406f3243dfae4d9327996c648d1c2, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 6515833384148778808, guid: 5b8406f3243dfae4d9327996c648d1c2,
         type: 3}
       propertyPath: clipFootsteps.Array.size
@@ -37095,8 +37214,13 @@ PrefabInstance:
     - target: {fileID: 6515833384148778808, guid: 5b8406f3243dfae4d9327996c648d1c2,
         type: 3}
       propertyPath: stepCooldown
-      value: 0.5
+      value: 0.35
       objectReference: {fileID: 0}
+    - target: {fileID: 6515833384148778808, guid: 5b8406f3243dfae4d9327996c648d1c2,
+        type: 3}
+      propertyPath: _myHealthBar
+      value: 
+      objectReference: {fileID: 1748339304}
     - target: {fileID: 6515833384148778810, guid: 5b8406f3243dfae4d9327996c648d1c2,
         type: 3}
       propertyPath: m_LocalPosition.x

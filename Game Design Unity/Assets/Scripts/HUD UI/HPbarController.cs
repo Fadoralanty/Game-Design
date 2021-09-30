@@ -6,20 +6,17 @@ namespace Plataformer2d
 {
     public class HPbarController : MonoBehaviour
     {
-        [SerializeField] PlayerController playerController;
-        [SerializeField] Image lifeBar;
-        private void Awake()
+        [SerializeField] private Slider _slider;
+
+        public void SetMaxHealth(float amount)
         {
-            playerController.onLifeChange += OnLifeChangeHandler;
-            UpdateLifeBar();
+            _slider.maxValue = amount;
+            _slider.value = amount;
         }
-        private void OnLifeChangeHandler(float currentLife)
+
+        public void SetHealth(float amount)
         {
-            UpdateLifeBar();
-        }
-        private void UpdateLifeBar()
-        {
-            lifeBar.fillAmount = playerController.GetLifePercentage();
+            _slider.value = amount;
         }
     }
 }

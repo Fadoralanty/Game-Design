@@ -9,7 +9,7 @@ namespace Plataformer2d
 {
     public class PlayerController : MonoBehaviour
     {
-
+        [SerializeField] private HPbarController _myHealthBar;
         public float currentlife;
         public float damage = 10;
         public float knockback = 2;
@@ -73,6 +73,7 @@ namespace Plataformer2d
         private void Start()
         {
             originalStepCooldown = stepCooldown;
+            _myHealthBar.SetMaxHealth(maxlife);
         }
         private void Update()
         {
@@ -98,7 +99,11 @@ namespace Plataformer2d
                         transform.rotation = Quaternion.Euler(0, 0, 0);
                         animatorcontroller.SetBool("IsRunning", true);
                     }
-                    PlayStep();
+
+                    if (isGrounded == true)
+                    {
+                        PlayStep();
+                    }
                 }
 
             }
@@ -202,6 +207,8 @@ namespace Plataformer2d
                 currentlife -= damage;
             }
             onLifeChange?.Invoke(currentlife);
+            _myHealthBar.SetHealth(currentlife);
+
             if (currentlife <= 0)
             {
                 Die();
@@ -221,6 +228,7 @@ namespace Plataformer2d
 
             }
             onLifeChange?.Invoke(currentlife);
+            _myHealthBar.SetHealth(currentlife);
         }
         private void UsePotion()
         {
@@ -260,6 +268,7 @@ namespace Plataformer2d
         {
             currentlife = maxlife;
             onLifeChange?.Invoke(currentlife);
+            _myHealthBar.SetHealth(currentlife);
         }
         public bool GetIsDead()//funcion que devuelve si el player esta vivo o no
         {
