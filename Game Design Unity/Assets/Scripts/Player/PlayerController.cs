@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using Random = UnityEngine.Random;
 
 namespace Plataformer2d
 {
@@ -34,12 +35,17 @@ namespace Plataformer2d
         [SerializeField] private LayerMask groundDetectionLayers;
         [SerializeField] private int lives = 1;
         [SerializeField] private AnimatorStateListener animatorStateListener;
+        [SerializeField] private float stepCooldown=1;
+        [SerializeField] private AudioSource Footsteps;
+        [SerializeField] private List<AudioClip> clipFootsteps;
+        private AudioClip lastStep;
         private int attack1Hash = Animator.StringToHash("Attack1");//me guardo la traduccion a Hash del nombre de un estado del animator 
         private int attack2Hash = Animator.StringToHash("Attack2");//con el hash puedo comparar onStateEnter y si es igual se que se entro a ese estado
         private int attack3Hash = Animator.StringToHash("Attack3");
         private AnimatorStateInfo thisStateInfo;
         private int maxExtraLives;
         private float AudioCooldown;
+        private float originalStepCooldown;
         private AudioSource audiosource;
         private Rigidbody2D myRigidBody;
         private bool isDead = false;
@@ -66,10 +72,11 @@ namespace Plataformer2d
         }
         private void Start()
         {
-
+            originalStepCooldown = stepCooldown;
         }
         private void Update()
         {
+            stepCooldown -= Time.deltaTime;
             float horizontal = Input.GetAxis("Horizontal");
             //-----INPUT DEL PLAYER-----
             if (horizontal != 0)
@@ -77,6 +84,7 @@ namespace Plataformer2d
                 //GetAxis is smoothed based on the “sensitivity” setting so that value gradually changes from 0 to 1, or 0 to -1. 
                 //Whereas GetAxisRaw will only ever return 0, -1, or 1 exactly (assuming a digital input such as a keyboard or joystick button)
                 //FUNCIONA
+                
                 if (isDead == false)//chequeo si esta muerto el jugador asi no se mueve mientras esta muerto
                 {
                     if (horizontal < 0)
@@ -90,7 +98,9 @@ namespace Plataformer2d
                         transform.rotation = Quaternion.Euler(0, 0, 0);
                         animatorcontroller.SetBool("IsRunning", true);
                     }
+                    PlayStep();
                 }
+
             }
 
             if (horizontal == 0)
@@ -174,9 +184,14 @@ namespace Plataformer2d
                 myRigidBody.AddForce((Vector2)transform.right * speed, ForceMode2D.Impulse);
             }
         }
-        private void LateUpdate()
-        {
 
+        private void PlayStep()
+        {
+            if (stepCooldown <= 0)
+            {
+                audiosource.PlayOneShot(clipFootsteps[Random.Range(0, clipFootsteps.Count)]);
+                stepCooldown = originalStepCooldown;
+            }
         }
         public void GetDamage(float damage)
         {
