@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1315280637}
   - component: {fileID: 1315280636}
   m_Layer: 0
-  m_Name: Circle
+  m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70,7 +70,7 @@ SpriteRenderer:
   m_SortingLayerID: 935750541
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 661956f837a691f4dacfd4cd1dd9c6fe, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5807d4dee669d564698861735d464001, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -265,4 +265,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buttonPrompt: {fileID: 1544025970280049798}
   animatorcontroller: {fileID: 4874841205281180609}
-  Items: []
+  Items:
+  - {fileID: 7642556947969349153, guid: 84ee9aaa645c33145b0796da9a9e501f, type: 3}
+  - {fileID: 7642556947969349153, guid: 84ee9aaa645c33145b0796da9a9e501f, type: 3}
+  - {fileID: 1151549093552837353, guid: 45fae4931a1c6a64fa6919085dadd2a9, type: 3}
+  - {fileID: 1151549093552837353, guid: 45fae4931a1c6a64fa6919085dadd2a9, type: 3}
+  - {fileID: 1151549093552837353, guid: 45fae4931a1c6a64fa6919085dadd2a9, type: 3}
